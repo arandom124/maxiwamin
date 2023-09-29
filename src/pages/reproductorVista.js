@@ -6,7 +6,7 @@ import AudioPlayer from '../Component/AudioPlayer';
 
 const reproductorVista = () => {
   const dario =
-    'https://blogger.googleusercontent.com/img/a/AVvXsEixRH_PPVqc7bW1WZRpwoY6ZXGEkqKGZpohjsz8fa3faLKy9j82jBwgfNkzyBjKxD_j_EFeH3fUK9VMVfhckfwcKYqAtJLaoD5gFfqotQatwEklQQvfjT7A1mYAuGgPScPusvTYK9WEWQ0CSagUMxUdc6aDJQCh4f-3Jz7UOyHcD7a5yZtaJtnTZKd-oSc';
+    'https://blogger.googleusercontent.com/img/a/AVvXsEgCdUPcQwXO2sadc0NfP0f7Q7c2eu0q2l-7JaxM1zfnbiRMY990m1HQijSzQkvtm65Xad2MrapLZAZbUgOaNgQb5XE4MhOAotaYGFbk0Sqw3vZnRSur14bZvxDDY80BCGPRJwPdgwfTMEY0XNCnWfHfPSi8YdEzX59BiMmlBqdG04MAbJoRGAzUVBMe-tY';
 
   return (
     <>
@@ -35,9 +35,10 @@ const reproductorVista = () => {
           />
           <div>
             {/* appp significa que esta llamando las clase del streaming */}
-            <h1 className="App text-5xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-pink-500 to-violet-500">La Maxima Silvia</h1>
+            <h1 className="App text-2xl animate-pulse font-bold bg-clip-text text-transparent bg-gradient-to-r from-pink-800 to-violet-400">A la venta software de radio streaming PERSONALIZADO</h1>
+            <h1 className="App text-5xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-pink-500 to-violet-500">Nombre de tu radio</h1>
             <p className="py-6 text-green-100">al aire 24/7 generos al gusto nuestros oyentes.</p>
-            <div className="text-center">
+            <p className="py-6 text-green-100">streaming radio de prueba link radio arandomCore.</p>            <div className="text-center">
               <AudioPlayer />
             </div>
 
@@ -47,7 +48,7 @@ const reproductorVista = () => {
                   Nuestras redes sociales.
                 </h6>
                 <h3 className="lg:text-1zxl text-center text-white">
-                  ¿Quieres saber más acerca de La Maxima?
+                  ¿Quieres saber más acerca del desarrollador?
                 </h3>
                 <br />
               </span>

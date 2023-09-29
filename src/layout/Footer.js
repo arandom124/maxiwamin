@@ -2,7 +2,7 @@ import React from 'react'
 
 const Footer = () => {
   const dario =
-    'https://blogger.googleusercontent.com/img/a/AVvXsEixRH_PPVqc7bW1WZRpwoY6ZXGEkqKGZpohjsz8fa3faLKy9j82jBwgfNkzyBjKxD_j_EFeH3fUK9VMVfhckfwcKYqAtJLaoD5gFfqotQatwEklQQvfjT7A1mYAuGgPScPusvTYK9WEWQ0CSagUMxUdc6aDJQCh4f-3Jz7UOyHcD7a5yZtaJtnTZKd-oSc';
+    'https://blogger.googleusercontent.com/img/a/AVvXsEgCdUPcQwXO2sadc0NfP0f7Q7c2eu0q2l-7JaxM1zfnbiRMY990m1HQijSzQkvtm65Xad2MrapLZAZbUgOaNgQb5XE4MhOAotaYGFbk0Sqw3vZnRSur14bZvxDDY80BCGPRJwPdgwfTMEY0XNCnWfHfPSi8YdEzX59BiMmlBqdG04MAbJoRGAzUVBMe-tY';
   return (
     <>
     
@@ -13,7 +13,7 @@ const Footer = () => {
             className="max-w-sm rounded-lg shadow-2xl"
             style={{ width: '80px', height: '80px' }}
           />
-    <p>Copyright © 2023 - Todos los derechos Reservados.<br/>Arandom Core</p>
+    <p>Copyright © 2023 - Todos los derechos Reservados.<br/>arandomCore</p>
   </aside> 
   <div className=' p-9'>
         <div className="collapse bg-base-200 place-items-center">    {/* Open the modal using ID.showModal() method */}
@@ -21,7 +21,7 @@ const Footer = () => {
 <dialog id="my_modal_2" className="modal">
   <form method="dialog" className="modal-box">
     <h3 className="font-bold text-lg text-center">
-    <p>La Maxima</p>
+    <p>tu-radio.vercel.app</p>
         
     </h3>
     
