@@ -21,7 +21,7 @@ const Footer = () => {
 <dialog id="my_modal_2" className="modal">
   <form method="dialog" className="modal-box">
     <h3 className="font-bold text-lg text-center">
-    <p>tu-radio.vercel.app</p>
+    <a href="https://portafolio-arandom.vercel.app/" className="link link-warning">Ir Desarrollador arandomCore </a>
         
     </h3>
     
