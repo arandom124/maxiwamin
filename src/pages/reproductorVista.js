@@ -6,7 +6,7 @@ import AudioPlayer from '../Component/AudioPlayer';
 
 const reproductorVista = () => {
   const dario =
-    'https://blogger.googleusercontent.com/img/a/AVvXsEgCdUPcQwXO2sadc0NfP0f7Q7c2eu0q2l-7JaxM1zfnbiRMY990m1HQijSzQkvtm65Xad2MrapLZAZbUgOaNgQb5XE4MhOAotaYGFbk0Sqw3vZnRSur14bZvxDDY80BCGPRJwPdgwfTMEY0XNCnWfHfPSi8YdEzX59BiMmlBqdG04MAbJoRGAzUVBMe-tY';
+    'https://blogger.googleusercontent.com/img/a/AVvXsEjPn_egOENveym3IQN0X5j99y0vRRzU6yX9KcW4BSCv7A9QTKZgLcHtSDGLPx3IL0zs0mKhUXYrgcBdTp3TAoN_HzFEh35OLKJU95KtRqPgb2IxfwnL5uVdzEfSTjHBLnpoxtVwpLGC30ZNx2hQtz1fGLbVxjBRCtX07MqLfON1TRS5q0Ttd1xciESTuPs';
 
   return (
     <>
