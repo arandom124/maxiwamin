@@ -35,12 +35,15 @@ const reproductorVista = () => {
           />
           <div>
             {/* appp significa que esta llamando las clase del streaming */}
-            <h1 className="App text-2xl animate-pulse font-bold bg-clip-text text-transparent bg-gradient-to-r from-pink-800 to-violet-400">A la venta software de radio streaming PERSONALIZADO</h1>
             <h1 className="App text-5xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-pink-500 to-violet-500">Nombre de tu radio</h1>
-            <p className="py-6 text-green-100">al aire 24/7 generos al gusto nuestros oyentes.</p>
-            <p className="py-6 text-green-100">streaming radio de prueba link radio arandomCore.</p>            <div className="text-center">
+            <p className="py-2 text-green-100">streaming radio de prueba link radio arandomCore.</p>
+            <div className="text-center">
               <AudioPlayer />
             </div>
+            <h1 className="App text-2xl animate-pulse font-bold bg-clip-text text-transparent bg-gradient-to-r from-pink-800 to-violet-400">A la venta software de radio streaming PERSONALIZADO</h1>
+            <p className="py-2 text-green-100">al aire 24/7 generos al gusto nuestros oyentes.</p>
+                        
+            
 
             <div className="lg:pt-8 pt-10">
               <span>
